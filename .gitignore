@@ -1,0 +1,35 @@
+# 빌드 결과물
+/bin/
+/obj/
+
+# 사용자 환경 설정
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+
+# ASP.NET Core launch settings
+Properties/launchSettings.json
+
+# 환경 설정 파일 (선택)
+appsettings.Development.json
+
+# 패키지 캐시
+project.nuget.cache
+*.nuget.*
+
+# 로그 파일
+*.log
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+*.iml
+.idea/
+
+# 기타
+*.vs/
